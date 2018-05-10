@@ -39,6 +39,8 @@ public class WebDriverCommonLib extends Log {
 		Reporter.log(msg);
 	}
 	
+	//No changes made
+	
 	public String getValuesFromPropertiesFile(String data) throws FileNotFoundException {
 		String value = null;
 		String loc = "C:\\Users\\bijay\\workspace\\WebDriverTest\\src\\main\\java\\com\\myProject\\GenericLib\\GlobalData.properties";
