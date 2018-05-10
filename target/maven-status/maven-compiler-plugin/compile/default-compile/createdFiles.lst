@@ -1,0 +1,5 @@
+com\myProject\GenericLib\WebDriverCommonLib.class
+com\myProject\GenericLib\WebDriverCommonLib$Locators.class
+com\myProject\GenericLib\Log.class
+com\myProject\PageObjectRepo\LoginPage.class
+com\myProject\PageObjectRepo\Orders.class
