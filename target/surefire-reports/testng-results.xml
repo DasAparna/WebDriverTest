@@ -2,18 +2,18 @@
 <testng-results skipped="0" failed="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="52938" started-at="2018-05-11T18:27:32Z" finished-at="2018-05-11T18:28:25Z">
+  <suite name="Suite" duration-ms="69811" started-at="2018-05-14T01:47:47Z" finished-at="2018-05-14T01:48:57Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="52938" started-at="2018-05-11T18:27:32Z" finished-at="2018-05-11T18:28:25Z">
+    <test name="Test" duration-ms="69811" started-at="2018-05-14T01:47:47Z" finished-at="2018-05-14T01:48:57Z">
       <class name="com.myProject.TestCases.MyPageTestCases">
-        <test-method status="PASS" signature="setUp()" name="setUp" is-config="true" duration-ms="14580" started-at="2018-05-11T18:27:32Z" finished-at="2018-05-11T18:27:47Z">
+        <test-method status="PASS" signature="setUp()" name="setUp" is-config="true" duration-ms="21171" started-at="2018-05-14T01:47:47Z" finished-at="2018-05-14T01:48:08Z">
         </test-method>
-        <test-method status="PASS" signature="newUserCreation()" name="newUserCreation" duration-ms="16588" started-at="2018-05-11T18:27:47Z" finished-at="2018-05-11T18:28:04Z">
+        <test-method status="PASS" signature="newUserCreation()" name="newUserCreation" duration-ms="17331" started-at="2018-05-14T01:48:08Z" finished-at="2018-05-14T01:48:25Z">
         </test-method>
-        <test-method status="PASS" signature="WomenApearralSelection()" name="WomenApearralSelection" duration-ms="19118" started-at="2018-05-11T18:28:04Z" finished-at="2018-05-11T18:28:23Z">
+        <test-method status="PASS" signature="WomenApearralSelection()" name="WomenApearralSelection" duration-ms="27327" started-at="2018-05-14T01:48:25Z" finished-at="2018-05-14T01:48:53Z">
         </test-method>
-        <test-method status="PASS" signature="tearDown()" name="tearDown" is-config="true" duration-ms="2638" started-at="2018-05-11T18:28:23Z" finished-at="2018-05-11T18:28:25Z">
+        <test-method status="PASS" signature="tearDown()" name="tearDown" is-config="true" duration-ms="3972" started-at="2018-05-14T01:48:53Z" finished-at="2018-05-14T01:48:57Z">
         </test-method>
       </class>
     </test>
