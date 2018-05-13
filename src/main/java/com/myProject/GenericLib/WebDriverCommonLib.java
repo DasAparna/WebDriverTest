@@ -39,7 +39,7 @@ public class WebDriverCommonLib extends Log {
 		Reporter.log(msg);
 	}
 	
-	//No changes made test java
+	//No changes made test java --java
 	
 	public String getValuesFromPropertiesFile(String data) throws FileNotFoundException {
 		String value = null;
