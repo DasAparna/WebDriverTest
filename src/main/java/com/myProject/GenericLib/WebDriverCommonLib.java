@@ -38,8 +38,13 @@ public class WebDriverCommonLib extends Log {
 	public void logReporter(String msg){
 		Reporter.log(msg);
 	}
+<<<<<<< HEAD
 	//new changes to check branch
 	//No changes made test java
+=======
+	
+	//No changes made test java --java
+>>>>>>> e95b33c8c18a2a5a117262167ef9c3231eaa0cb1
 	
 	public String getValuesFromPropertiesFile(String data) throws FileNotFoundException {
 		String value = null;
